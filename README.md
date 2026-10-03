@@ -40,10 +40,18 @@ The repository includes sanitized exports, architecture and setup documentation,
 
 **Educational demonstration prototype.** The confectionery-and-delivery scenario assumes 30–40 calls/day, two customer-service managers and one supervisor; these are not measured customer figures.
 
+### [RevenuePulse AI](https://github.com/vladyslav-moskalkov/revenuepulse-ai)
+
+A three-workflow n8n prototype connecting HAPP, **gpt-5-mini**, Google Sheets and Telegram: voice lead qualification, structured conversation analysis and an AI-assisted CEO briefing built on JavaScript-calculated metrics.
+
+The repository includes sanitized 29-node exports, an architecture overview, setup and security guides, synthetic examples, and **64 offline checks**. The source audit documents reporting-window, scoring-consistency and transcript-preservation limitations; passing characterization checks does not certify production readiness.
+
+**Educational demonstration prototype.** The B2B scenario assumes 15–25 leads/day, three sales managers and one supervisor. Its reported 40% metric is a successful-conversation share, not sales conversion or revenue lift.
+
 ## Tools
 
 **Automation & integration:** n8n · Webhooks · REST APIs · JavaScript  
-**AI & analytics:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI  
+**AI & analytics:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI · HAPP  
 **Business systems:** Google Workspace · Slack · Telegram · Zoho CRM · Klaviyo
 
 ## How I work
