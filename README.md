@@ -16,7 +16,7 @@ I build AI-assisted workflows for customer support, lead qualification, and oper
 
 ## Featured project
 
-### [SupportFlow AI](https://github.com/vladislavbull/supportflow-ai)
+### [SupportFlow AI](https://github.com/vladyslav-moskalkov/supportflow-ai)
 
 A four-workflow n8n prototype connecting Gmail, OpenAI, Google Sheets, and Slack: ticket intake and routing, SLA monitoring, lifecycle updates, and centralized error handling.
 
