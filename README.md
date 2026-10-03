@@ -1,16 +1,41 @@
-## Hi there 👋
+![AI Automation — Sales, Service and Operations](assets/banner.svg)
 
-<!--
-**vladislavbull/vladislavbull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vladyslav Moskalkov
 
-Here are some ideas to get you started:
+**AI Automation Specialist · Barcelona, Spain**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI-assisted workflows for customer support, lead qualification, and operational analytics. My focus is connecting business processes with clear rules, structured data, and practical error handling.
+
+[Portfolio](https://vladyslav-ai-automation.notion.site/AI-Automation-Portfolio-3917a4cb52cc81408f7cebb09a5d14ce) · [LinkedIn](https://www.linkedin.com/in/vladyslav-moskalkov/) · [Email](mailto:vladyslavmoskalkov@gmail.com)
+
+## What I build
+
+- **Customer service automation:** ticket intake, AI classification, ownership, SLA monitoring, and escalations.
+- **Lead and CRM workflows:** form intake, qualification, CRM synchronization, and marketing segmentation.
+- **Voice and operational analytics:** transcription, conversation analysis, structured reporting, and AI-assisted access to metrics.
+
+## Featured project
+
+### [SupportFlow AI](https://github.com/vladislavbull/supportflow-ai)
+
+A four-workflow n8n prototype connecting Gmail, OpenAI, Google Sheets, and Slack: ticket intake and routing, SLA monitoring, lifecycle updates, and centralized error handling.
+
+The repository includes sanitized workflow exports, an architecture overview, setup instructions, synthetic examples, and 45 offline regression checks. Those checks validate structure and selected code logic, not live integrations or AI accuracy.
+
+**Educational demonstration prototype.** Business scale is an explicitly labelled scenario assumption; this is not a real client deployment.
+
+## Tools
+
+**Automation & integration:** n8n · Webhooks · REST APIs · JavaScript  
+**AI & analytics:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI  
+**Business systems:** Google Workspace · Slack · Telegram · Zoho CRM · Klaviyo
+
+## How I work
+
+Understand the process → design the workflow → implement integrations → test failure paths → document the result.
+
+I distinguish assumptions from measured results, keep secrets out of shared exports, and document prototype limitations rather than presenting demos as production deployments.
+
+## Let's discuss your workflow
+
+Have a repetitive process or disconnected tools? [Email me](mailto:vladyslavmoskalkov@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vladyslav-moskalkov/).
