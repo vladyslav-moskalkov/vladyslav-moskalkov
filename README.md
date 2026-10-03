@@ -14,7 +14,7 @@ I build AI-assisted workflows for customer support, lead qualification, and oper
 - **Lead and CRM workflows:** form intake, qualification, CRM synchronization, and marketing segmentation.
 - **Voice and operational analytics:** transcription, conversation analysis, structured reporting, and AI-assisted access to metrics.
 
-## Featured project
+## Featured projects
 
 ### [SupportFlow AI](https://github.com/vladyslav-moskalkov/supportflow-ai)
 
@@ -23,6 +23,14 @@ A four-workflow n8n prototype connecting Gmail, OpenAI, Google Sheets, and Slack
 The repository includes sanitized workflow exports, an architecture overview, setup instructions, synthetic examples, and 45 offline regression checks. Those checks validate structure and selected code logic, not live integrations or AI accuracy.
 
 **Educational demonstration prototype.** Business scale is an explicitly labelled scenario assumption; this is not a real client deployment.
+
+### [LeadFlow AI](https://github.com/vladyslav-moskalkov/leadflow-ai)
+
+A form-to-CRM n8n prototype using **gpt-5-mini** for lead qualification. It connects Google Sheets, Telegram, Zoho CRM and Klaviyo to route enquiries into Hot, Warm or Cold segments.
+
+The repository includes a sanitized 22-node export, setup and security guides, synthetic inputs, and **30 offline checks**. Known validation, JSON parsing and response-handling limitations are documented; live integrations and classification accuracy are not certified by these checks.
+
+**Educational demonstration prototype.** The assumed 20–30 enquiries/day and three-person team describe the scenario, not measured customer results.
 
 ## Tools
 
