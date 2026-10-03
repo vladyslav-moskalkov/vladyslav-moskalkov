@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title desc">
+  <title id="title">AI Automation</title>
+  <desc id="desc">Sales, Service and Operations. A dark forest-green banner with understated workflow connections.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12251f"/><stop offset="1" stop-color="#243b32"/></linearGradient>
+  </defs>
+  <rect width="1280" height="240" rx="16" fill="url(#bg)"/>
+  <g fill="none" stroke="#8eaa99" stroke-width="1.5" opacity=".4">
+    <path d="M660 65H830Q850 65 866 82L900 116Q916 133 940 133H1280"/>
+    <path d="M660 120H775Q800 120 814 102L840 70Q852 55 877 55H1100Q1125 55 1138 38L1165 0"/>
+    <path d="M660 175H895Q920 175 937 155L970 116Q985 98 1010 98H1280"/>
+    <path d="M700 210H1000Q1025 210 1040 191L1062 164Q1078 145 1100 145H1280"/>
+  </g>
+  <g stroke="#a8c1b1" stroke-width="1.5" fill="#20392d" opacity=".7">
+    <circle cx="740" cy="65" r="5"/><circle cx="940" cy="133" r="5"/><circle cx="895" cy="175" r="5"/><circle cx="1062" cy="164" r="5"/><circle cx="1100" cy="55" r="5"/>
+  </g>
+  <rect x="64" y="49" width="38" height="3" rx="1.5" fill="#a8c1b1"/>
+  <text x="64" y="116" fill="#f2f5f1" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="1">AI AUTOMATION</text>
+  <text x="66" y="157" fill="#bdd0c2" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1">Sales · Service · Operations</text>
+</svg>
