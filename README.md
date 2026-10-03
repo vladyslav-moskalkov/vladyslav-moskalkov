@@ -32,6 +32,14 @@ The repository includes a sanitized 22-node export, setup and security guides, s
 
 **Educational demonstration prototype.** The assumed 20–30 enquiries/day and three-person team describe the scenario, not measured customer results.
 
+### [CallInsight AI](https://github.com/vladyslav-moskalkov/callinsight-ai)
+
+A four-workflow n8n prototype connecting AssemblyAI, **gpt-5-mini** and Google Sheets: queued audio transcription, tone/category analysis, deterministic call statistics and a Ukrainian-language chat assistant.
+
+The repository includes sanitized exports, architecture and setup documentation, synthetic examples, and **40 offline checks**. JavaScript calculates the statistics; the assistant explains the results. Live accuracy and processing-time claims are not certified by these checks.
+
+**Educational demonstration prototype.** The confectionery-and-delivery scenario assumes 30–40 calls/day, two customer-service managers and one supervisor; these are not measured customer figures.
+
 ## Tools
 
 **Automation & integration:** n8n · Webhooks · REST APIs · JavaScript  
