@@ -4,61 +4,59 @@
 
 **AI Automation Specialist · Barcelona, Spain**
 
-I build AI-assisted workflows for customer support, lead qualification, and operational analytics. My focus is connecting business processes with clear rules, structured data, and practical error handling.
+I build AI-assisted workflows that connect customer support, sales and operational reporting. My focus is practical integrations, clear business rules and transparent validation.
 
 [Portfolio](https://vladyslav-ai-automation.notion.site/AI-Automation-Portfolio-3917a4cb52cc81408f7cebb09a5d14ce) · [LinkedIn](https://www.linkedin.com/in/vladyslav-moskalkov/) · [Email](mailto:vladyslavmoskalkov@gmail.com)
 
 ## What I build
 
-- **Customer service automation:** ticket intake, AI classification, ownership, SLA monitoring, and escalations.
-- **Lead and CRM workflows:** form intake, qualification, CRM synchronization, and marketing segmentation.
-- **Voice and operational analytics:** transcription, conversation analysis, structured reporting, and AI-assisted access to metrics.
+- **Customer support:** ticket classification, ownership, SLA monitoring and escalation.
+- **Lead operations:** form intake, CRM handoff, qualification and marketing segmentation.
+- **Voice analytics:** transcription, conversation analysis, calculated metrics and executive briefings.
 
-## Featured projects
+## Selected projects
 
 ### [SupportFlow AI](https://github.com/vladyslav-moskalkov/supportflow-ai)
 
-A four-workflow n8n prototype connecting Gmail, OpenAI, Google Sheets, and Slack: ticket intake and routing, SLA monitoring, lifecycle updates, and centralized error handling.
+Email-to-ticket routing, business-hours SLA deadlines, controlled lifecycle updates and centralized error handling.
 
-The repository includes sanitized workflow exports, an architecture overview, setup instructions, synthetic examples, and 45 offline regression checks. Those checks validate structure and selected code logic, not live integrations or AI accuracy.
-
-**Educational demonstration prototype.** Business scale is an explicitly labelled scenario assumption; this is not a real client deployment.
+**n8n · OpenAI · Gmail · Google Sheets · Slack**  
+4 workflows · 45 offline checks · [Ukrainian walkthrough](https://www.loom.com/share/a50ba31d53bd4d0f92ce9712a5c29098)
 
 ### [LeadFlow AI](https://github.com/vladyslav-moskalkov/leadflow-ai)
 
-A form-to-CRM n8n prototype using **gpt-5-mini** for lead qualification. It connects Google Sheets, Telegram, Zoho CRM and Klaviyo to route enquiries into Hot, Warm or Cold segments.
+Landing-page lead intake connected to CRM, team notifications and AI-assisted Hot/Warm/Cold marketing segmentation.
 
-The repository includes a sanitized 22-node export, setup and security guides, synthetic inputs, and **30 offline checks**. Known validation, JSON parsing and response-handling limitations are documented; live integrations and classification accuracy are not certified by these checks.
-
-**Educational demonstration prototype.** The assumed 20–30 enquiries/day and three-person team describe the scenario, not measured customer results.
+**n8n · gpt-5-mini · Zoho CRM · Klaviyo · Telegram**  
+1 workflow · 30 offline checks · [Ukrainian walkthrough](https://www.loom.com/share/9d993da280ea4eee9ed51f20a067ed4e)
 
 ### [CallInsight AI](https://github.com/vladyslav-moskalkov/callinsight-ai)
 
-A four-workflow n8n prototype connecting AssemblyAI, **gpt-5-mini** and Google Sheets: queued audio transcription, tone/category analysis, deterministic call statistics and a Ukrainian-language chat assistant.
+Queued audio transcription, conversation classification and a chat assistant backed by JavaScript-calculated call statistics.
 
-The repository includes sanitized exports, architecture and setup documentation, synthetic examples, and **40 offline checks**. JavaScript calculates the statistics; the assistant explains the results. Live accuracy and processing-time claims are not certified by these checks.
-
-**Educational demonstration prototype.** The confectionery-and-delivery scenario assumes 30–40 calls/day, two customer-service managers and one supervisor; these are not measured customer figures.
+**n8n · AssemblyAI · gpt-5-mini · Google Sheets**  
+4 workflows · 40 offline checks · [Ukrainian walkthrough](https://www.loom.com/share/e11fa54e25fc408fab3450a7f1153d13)
 
 ### [RevenuePulse AI](https://github.com/vladyslav-moskalkov/revenuepulse-ai)
 
-A three-workflow n8n prototype connecting HAPP, **gpt-5-mini**, Google Sheets and Telegram: voice lead qualification, structured conversation analysis and an AI-assisted CEO briefing built on JavaScript-calculated metrics.
+Voice lead qualification, structured BANT conversation analysis and an AI-assisted CEO briefing based on calculated metrics.
 
-The repository includes sanitized 29-node exports, an architecture overview, setup and security guides, synthetic examples, and **64 offline checks**. The source audit documents reporting-window, scoring-consistency and transcript-preservation limitations; passing characterization checks does not certify production readiness.
+**n8n · HAPP · gpt-5-mini · Google Sheets · Telegram**  
+3 workflows · 64 offline checks · [Ukrainian walkthrough](https://www.loom.com/share/891cd4905a6c47feb0b630a590b36154)
 
-**Educational demonstration prototype.** The B2B scenario assumes 15–25 leads/day, three sales managers and one supervisor. Its reported 40% metric is a successful-conversation share, not sales conversion or revenue lift.
+**All four are educational demonstration prototypes, not client deployments.** Each repository includes sanitized inactive exports, architecture diagrams, setup instructions, synthetic examples, automated checks and documented limitations. Offline checks validate selected source behavior—not live integrations, model accuracy or production readiness. Scenario figures are labelled assumptions; no revenue uplift is claimed.
 
-## Tools
+## Technical toolkit
 
-**Automation & integration:** n8n · Webhooks · REST APIs · JavaScript  
-**AI & analytics:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI · HAPP  
+**Automation:** n8n · JavaScript · REST APIs · Webhooks  
+**AI and audio:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI · HAPP  
 **Business systems:** Google Workspace · Slack · Telegram · Zoho CRM · Klaviyo
 
 ## How I work
 
-Understand the process → design the workflow → implement integrations → test failure paths → document the result.
+Understand the process → design the integration → implement → validate failure paths → document the handoff.
 
-I distinguish assumptions from measured results, keep secrets out of shared exports, and document prototype limitations rather than presenting demos as production deployments.
+I separate assumptions from measured results, calculate metrics in code, protect secrets in shared exports and make prototype limitations visible.
 
 ## Let's discuss your workflow
 
