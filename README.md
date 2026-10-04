@@ -46,11 +46,21 @@ Voice lead qualification, structured BANT conversation analysis and an AI-assist
 
 **All four are educational demonstration prototypes, not client deployments.** Each repository includes sanitized inactive exports, architecture diagrams, setup instructions, synthetic examples, automated checks and documented limitations. Offline checks validate selected source behavior—not live integrations, model accuracy or production readiness. Scenario figures are labelled assumptions; no revenue uplift is claimed.
 
+## Product in development
+
+### [SIGNAL](https://github.com/vladyslav-moskalkov/signal-showcase)
+
+Evidence-first automation intelligence for agencies and consultants: connecting hiring evidence with occupational references to investigate repeated manual work.
+
+**TypeScript · Next.js · PostgreSQL · Drizzle ORM**\
+Public architecture and development showcase · Implementation private · In development, not a launched service
+
 ## Technical toolkit
 
 **Automation:** n8n · JavaScript · REST APIs · Webhooks  
 **AI and audio:** OpenAI API · Structured Output · Prompt Engineering · AssemblyAI · HAPP  
-**Business systems:** Google Workspace · Slack · Telegram · Zoho CRM · Klaviyo
+**Business systems:** Google Workspace · Slack · Telegram · Zoho CRM · Klaviyo\
+**Product engineering:** TypeScript · Next.js · PostgreSQL · Drizzle ORM · Vitest
 
 ## How I work
 
